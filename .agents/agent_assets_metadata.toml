@@ -1,0 +1,14 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "7Wx0PFu4GWjDg36SPetnj"
+uri = "file://artifacts/ai-chat/public/icon-192.png"
+type = "image"
+title = "minimal ai brain icon"
+
+[[generated]]
+id = "NPunii2mf2ROrmmkfG_Tz"
+uri = "file://artifacts/ai-chat/public/icon-512.png"
+type = "image"
+title = "minimal ai brain icon large"
